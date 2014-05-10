@@ -1,0 +1,9 @@
+Command Block MCEdit Filter by ifJu
+
+
+
+tick "Get infos" to open dialog box who contain the infos of command block (command, datavalue, name, id)
+
+tick "Set command" and enter command in the area to set the command of the command block
+
+tick "Set name" and enter name in the area to set the name of the command block
