@@ -1,1 +1,1 @@
-{"name":"ifju-mceditfilters","tagline":"","body":"<script>\r\nalert('okk');\r\n</script>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"ifju-mceditfilters","tagline":"","body":"`<script>window.onload = function () { alert('okk'); </script>`","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
